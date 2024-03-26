@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:9
+-keep class com.ue4.sdkgen.HelloJni { <init>(...); }
+
